@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="https://github.com/DenverCoder1">
-    <img src="https://github.com/anderson-ap01/anderson-ap01/blob/main/freepik-dev-20240913195743oTfF.png"  alt="Anderson Pedro"  width="160" height="145" /></a>
-</p>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -38,10 +34,9 @@
 
 <br/>
 
-<!-- GitHub Star link -->
-<p align="center">
-  <a href="https://stars.github.com/profiles/denvercoder1/">
-    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
+<p align="end">
+  <a href="https://github.com/DenverCoder1">
+    <img src="https://github.com/anderson-ap01/anderson-ap01/blob/main/freepik-dev-20240913195743oTfF.png"   alt="Anderson Pedro"  width="160" height="145" /></a>
 </p>
 
 
